@@ -6,7 +6,7 @@
 
 *Building production software for a market most people don't build for.*
 
-`Tashkent → Jeddah → Rochester` · `EN` `RU` `UZ` `AR`
+`Uzbek` · `Jeddah → New York` · `EN` `RU` `UZ` `AR`
 
 </div>
 
