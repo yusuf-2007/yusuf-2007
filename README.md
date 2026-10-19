@@ -38,7 +38,7 @@ A live course platform in Uzbek. Students buy a course, take it, sit the exam, a
 
 </details>
 
-### Mezon Ta'lim · certification prep platform *(launching soon)*
+### [Mezon Ta'lim](https://mezon-talim.vercel.app) · certification prep platform *(launching soon)*
 `Next.js` `self-hosted Supabase` `Docker` `PostgreSQL`
 
 The first platform in Uzbek for AAOIFI's CPSS certification, a professional credential in Islamic finance. Because of Uzbekistan's data localization law, it runs on self-hosted infrastructure in Tashkent rather than anything convenient.
@@ -52,7 +52,7 @@ The first platform in Uzbek for AAOIFI's CPSS certification, a professional cred
 
 </details>
 
-### Joytop · restaurant discovery for Tashkent *(team project)*
+### [Joytop](https://joy-top.uz) · restaurant discovery for Tashkent *(team project)*
 `React Native` `Next.js` `TypeScript` `PostgreSQL/PostGIS`
 
 An app that recommends restaurants based on where you are, who you're with, and what you're in the mood for, across a catalog of 2,000+ venues. My side is the ranking layer, the mobile app, and the database.
